@@ -96,3 +96,8 @@ h3 {
   height: 0;
   transition: 0.3s ease;
 }
+
+.text{
+    text-align: center;
+    margin: 0 0 5px;
+}
